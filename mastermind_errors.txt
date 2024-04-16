@@ -1,0 +1,5 @@
+Error: File 'scores.txt' not found. Creating a new file.
+Description: read_leaderboard
+Type: ReadError
+Date: 2023-11-27 15:22:11
+------------------------------

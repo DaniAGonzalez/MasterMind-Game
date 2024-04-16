@@ -1,0 +1,5 @@
+# Leaderboard File
+# Format: username,score
+daniela,2
+danielita,3
+DanielaA,1
